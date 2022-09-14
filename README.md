@@ -4,10 +4,11 @@ My Coursera course Certificate and Course Details
 * Course-1 : Foundations: Data, Data, Everywhere
 * Course-2 : Ask Questions to Make Data-Driven Decisions
 * Course-3 : Prepare Data for Exploration
-* Course-4 : Analyze Data to Answer Questions
-* Course-5 : Share Data Through the Art of Visualization
-* Course-6 : Data Analysis with R Programming
-* Course-7 : Google Data Analytics Capstone: Complete a Case Study
+* Course-4 : Process Data from Dirty to Clean
+* Course-5 : Analyze Data to Answer Questions
+* Course-6 : Share Data Through the Art of Visualization
+* Course-7 : Data Analysis with R Programming
+* Course-8 : Google Data Analytics Capstone: Complete a Case Study
 
 ![image](https://user-images.githubusercontent.com/107918245/190084492-7d728d48-7979-4fef-8938-a701c9e1fdde.png)
 
