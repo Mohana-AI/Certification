@@ -1,5 +1,5 @@
 # Coursera-Certificate
-My Coursera course Certificate and Course Details
+My course Certificate and Course Details
 # Google Data Analytics
 * Course-1 : Foundations: Data, Data, Everywhere
 * Course-2 : Ask Questions to Make Data-Driven Decisions
