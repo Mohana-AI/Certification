@@ -14,7 +14,7 @@ My course Certificate and Course Details
 
 # Google Certified Educator
 Demonstrated My proficiency in Google for Education Products
-
+![Screenshot]()
 
 # Crash Course on Python
 * Week-1 : Hello python!
